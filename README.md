@@ -47,8 +47,12 @@ const String newsApiKey = 'YOUR_API_KEYS_HERE';
 - [delayed_display](https://pub.dev/packages/delayed_display)
 - [shared_preferences](https://pub.dev/packages/delayed_display)
 
-
-
+# Author 
+- [Facebook](https://www.facebook.com/shubhamhackz)
+- [Twitter](https://www.twitter.com/shubhamhackz)
+- [Stackoverflow](https://stackoverflow.com)
+- [Medium](https://www.medium.com)
+- [Instagram](https://www.instagram.com/shubhamhackz)
 
 
 
