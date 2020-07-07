@@ -3,14 +3,14 @@
 
 Made with 🔥 in India 😍
 
-Aarogya Seva is an app developed using flutter for tracking live Covid-19 cases. App provides Coronavirus self assessment without collecting any data.
+Aarogya Seva is an Indian app developed using flutter for tracking live Covid-19 cases. App provides Coronavirus self assessment without collecting any data.
 The app has following features: 
 - Live Covid-19 cases across India 
 - Minimilistic UI and an elegant user experience
 - Live news related to Corona Virus from newsapi.org
 - Check your health condition with Self Assessement (For general Purpose)
 - List of helpline numbers
-- No data collection in any from (Secure)
+- No data collection in any from (Secure) 🥳
 
 
 ![Aarogya Seva Screenshots](https://github.com/shubhamhackz/aarogya_seva/blob/master/img/banner_1.png)
@@ -25,7 +25,7 @@ const String newsApiKey = 'YOUR_API_KEYS_HERE';
 ```
 
 # TODO
-- Update the Self Assessement algorithm to be more accurate
+- Update the Self Assessement algorithm to be more accurate 🤨
 - Use isolates to make app more concurrent 
 - Make app responsive for tablets
 - Better way to handle network error/ no internet
@@ -33,6 +33,9 @@ const String newsApiKey = 'YOUR_API_KEYS_HERE';
 # Resourses
 - Inspired from Uplabs Design
 - Splash Screen
+
+# Contribution
+- Anyone interested in contributing their precious time for the furthur development of this app are more than welcome 🙏🏻
 
 # Plugin Used
 - [feather_icons_flutter](https://pub.dev/packages/feather_icons_flutter)
