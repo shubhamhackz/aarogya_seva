@@ -1,6 +1,8 @@
 # Aarogya Seva
 ![Aarogya Seva Logo](https://github.com/shubhamhackz/aarogya_seva/blob/master/img/logo.png)
 
+Made with 🔥 in India 😍
+
 Aarogya Seva is an app developed using flutter for tracking live Covid-19 cases. App provides Coronavirus self assessment without collecting any data.
 The app has following features: 
 - Live Covid-19 cases across India 
