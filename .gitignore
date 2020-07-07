@@ -10,7 +10,7 @@
 .svn/
 
 # App Files
-.lib/constants/apikeys.dart
+lib/constants/apikeys.dart
 
 # IntelliJ related
 *.iml
