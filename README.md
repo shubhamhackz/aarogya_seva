@@ -6,12 +6,27 @@ The app has following features:
 - Live Covid-19 cases across India 
 - Minimilistic UI and an elegant user experience
 - Live news related to Corona Virus from newsapi.org
-- Check your health condition using Coronavirus Tester (For general Purpose)
-- 
+- Check your health condition with Self Assessement (For general Purpose)
+- List of helpline numbers
+- No data collection in any from (Secure)
 
 
 ![Aarogya Seva Screenshots](https://github.com/shubhamhackz/aarogya_seva/blob/master/img/banner_1.png)
 ![Aarogya Seva Screenshots](https://github.com/shubhamhackz/aarogya_seva/blob/master/img/banner_2.png)
+
+# Setup 
+- Register on newsapi.org 
+- Get APIKeys from newsapi.org
+- Paste your APIKeys in constants/apikeys.dart
+```
+const String newsApiKey = 'YOUR_API_KEYS_HERE';
+```
+
+# TODO
+- Update the Self Assessement algorithm to be more accurate
+- Use isolates to make app more concurrent 
+- Make app responsive for tablets
+- Better way to handle network error/ no internet
 
 
 
