@@ -10,7 +10,7 @@ The app has following features:
 - Live news related to Corona Virus from newsapi.org
 - Check your health condition with Self Assessement (For general Purpose)
 - List of helpline numbers
-- No data collection in any from (Secure) 🥳
+- No data collection in any form (Secure) 🥳
 
 
 ![Aarogya Seva Screenshots](https://github.com/shubhamhackz/aarogya_seva/blob/master/img/banner_1.png)
