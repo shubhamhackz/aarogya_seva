@@ -12,7 +12,7 @@ const Map<NavBarItem, String> kNavbarItems = {
   NavBarItem.stats: 'Stats',
   NavBarItem.nearby: 'Health',
   NavBarItem.news: 'News',
-  NavBarItem.info: 'Info',
+  NavBarItem.info: 'Help',
 };
 
 const List<String> svgs = [

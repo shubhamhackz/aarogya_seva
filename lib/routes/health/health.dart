@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:covid/helper/health/self_assess.dart';
 import 'package:covid/components/health/chat.dart';
 import 'package:covid/components/health/chat_chip.dart';
+import 'package:covid/model/health/chat_data.dart';
 
 class Health extends StatefulWidget {
   @override
@@ -117,6 +118,13 @@ class _HealthState extends State<Health> with TickerProviderStateMixin {
   }
 
   @override
+  void dispose() {
+    _animationController.dispose();
+    _scrollController.dispose();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     double height = MediaQuery.of(context).size.height;
 
@@ -141,13 +149,6 @@ class _HealthState extends State<Health> with TickerProviderStateMixin {
       ),
     );
   }
-}
-
-class ChatData {
-  List question;
-  List options;
-
-  ChatData({this.question, this.options});
 }
 
 class TestScore {
