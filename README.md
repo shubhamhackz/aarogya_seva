@@ -31,7 +31,7 @@ const String newsApiKey = 'YOUR_API_KEYS_HERE';
 - Better way to handle network error/ no internet
 
 # Resourses
-- Inspired from Uplabs Design
+- Inspired from [Dribble Design](https://dribbble.com/shots/11164123-Daily-UI-Challenge-043-100-Coronavirus-Mobile-App-Freebie) By Ankur Tripathi
 - Splash Screen
 
 # Contribution
