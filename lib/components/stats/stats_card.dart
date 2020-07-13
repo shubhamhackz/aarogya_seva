@@ -123,7 +123,7 @@ class StatsCard extends StatelessWidget {
       children: [
         Row(
           children: <Widget>[
-            icon,
+            icon == null ? Container() : icon,
             Text(
               (int.parse(count) > 0) ? '+$count' : '$count',
               style: TextStyle(
